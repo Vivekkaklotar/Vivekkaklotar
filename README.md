@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate for own training 
 - 📫 How to reach me through mail vivekp7573@gmail.com
 - 😄 Pronouns: currently dont have 
-- ⚡ Fun fact: im perfectly new in git hub
+- ⚡ Fun fact: what can we do...!
 
 <!---
 Vivekkaklotar/Vivekkaklotar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
