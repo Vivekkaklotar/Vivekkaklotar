@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @Vivekkaklotar
-- 👀 I’m interested in Electrical related projects and circuit designing and eplan stucture 
+- 👀 I’m interested in Electrical & AIML related projects and circuit designing and eplan stucture 
 - 🌱 I’m currently learning b.tech and eplan education
 - 💞️ I’m looking to collaborate for own training 
 - 📫 How to reach me through mail vivekp7573@gmail.com
-- 😄 Pronouns: currently dont have 
 - ⚡ Fun fact: what can we do...!
 
 <!---
