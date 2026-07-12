@@ -29,4 +29,3 @@
 - GitHub: https://github.com/Vivekkaklotar
 - LinkedIn: https://linkedin.com/in/vivekkaklotar
 
-⭐ *"Code. Learn. Build. Repeat."*
